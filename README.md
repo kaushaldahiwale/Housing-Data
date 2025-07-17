@@ -134,6 +134,6 @@ A cleaned and structured dataset ready for:
 ## 📌 Author
 
 Made with 💻 by a data analyst in training — transitioning from a sales & marketing background into data analytics.  
-Feel free to connect on [LinkedIn](#) _(insert your link here)_
+Feel free to connect on [LinkedIn](#) _(https://www.linkedin.com/in/kaushal-dahiwale-309a3217b/)_
 
 ---
